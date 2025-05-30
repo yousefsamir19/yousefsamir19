@@ -7,7 +7,7 @@
 
 
  
-* 🔭 Currently *
+**🔭 Currently**
 
 - Focused on expanding my AI knowledge and technical skills
 - Looking for internship opportunities in AI/Software Development
