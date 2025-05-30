@@ -24,5 +24,5 @@
 
 ## 📫 You can find me here 
 
-[LinkedIn](linkedin.com/in/yousef-samir) | [Email](mailto:yousefsamir022@gmail.com)
+[LinkedIn](linkedin.com/in/yousef-samir) | [Email](yousefsamir022@gmail.com)
 
