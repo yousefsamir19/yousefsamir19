@@ -1,11 +1,6 @@
 ## Hi there 👋
-# 👋 Hello, I'm Yousef El-Zelafy
-
-📍 Fifth settlement, Cairo  
-📧 yousefsamir022@gmail.com  
-📞 01010084134  
 🔗 [LinkedIn](linkedin.com/in/yousef-samir) | [GitHub](github.com/yousefsamir19)  
-
+I am a Computer Science student at Ain Shams University, specializing in
 ## 🎓 Education
 **Bachelor's in Computer and Information Science (AI Focus)**  
 *Ain Shams University (ASU) & University of East London (UEL)*  
